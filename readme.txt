@@ -1,5 +1,5 @@
 Git is a distributed version control system.
-Git is a free adn cool software.
+Git is a great free adn cool software.
 Git has a mutable index called stage.
 Git tracks changes of files.
 dadadadada
